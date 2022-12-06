@@ -1,0 +1,21 @@
+.bgimg{
+    background-image: linear-gradient(to right,#E21717,#3DBE29,#3944F7);
+    height: 150vh;
+    width: 100vw;
+    background-size: cover;
+}
+.form-group{
+    width: 450px;
+    border: none;
+}
+.form-row{
+    padding-top:25px ;
+    width: 450px;
+    border: none;
+}
+.heading{
+    font-size: 45px;
+}
+.paraline{
+    font-size: 25px;
+}

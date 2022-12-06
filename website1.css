@@ -1,0 +1,142 @@
+.stylinglogo{
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+#go {
+    background-color: white;
+    color:black;
+    padding: 5px 15px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    border: 0px;
+    font-size: 20px;
+
+}
+#go:hover{
+    background-color: blue;
+    color:violet;
+    border: 0px;
+}
+.hollicardbottom{
+    background-color:whitesmoke;
+    height: 100vh;
+
+}
+.imageres{
+    float: left;
+    padding-top: 5PX;
+    height: 500px;
+    width: 600px;
+}
+.holliheading{
+    float: left;
+    padding-left: 200px;
+    padding-top: 90px;
+    color: darkblue;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+.hollipara1{
+    padding-top: 170px;
+    padding-right: 300px;
+    font-size: 30px;
+    text-align: right;
+    
+}
+.hollipara{
+    float: left;
+    padding-left: 300px;
+    font-weight: bold;
+    font-size: 50px;
+}
+.header2{
+    padding-top: 55px;
+}
+.hollis3{
+    background-color:lightgoldenrodyellow;
+    width: 230px;
+    border-radius: 15px;
+    padding: 15px;
+    height: 310px;
+    text-align: center;
+    margin: 15px;
+}
+.hollis3:hover{
+    background-color: aqua;
+}
+.imageres1{
+    padding-top: 50PX;
+    text-align: right;
+    height: 200px;
+    width: 180px;
+    border: none;
+}
+
+.holliheadings{
+    color: darkblue;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+.holliparas{
+    font-weight: normal;
+}
+.holliparas1{
+    float: left;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.header3{
+    padding-top: 90px;
+}
+.imageres2{
+    padding-top: 50PX;
+    text-align: left;
+    height: 500px;
+    width: 480px;
+    border: none;
+    margin: 15px;
+}
+.holliheadingse{
+    color: darkblue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+.holliparase{
+    font-size: 20px;
+    font-weight: normal;
+}
+.quote-icon{
+    display: block;
+    text-align: left;
+    margin-bottom: 20px;
+}
+svg:not(:root){
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.icon{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    fill: currentColor;
+}
+.rte-setting{
+    margin-bottom: 19.44444px;
+}
+.rte{
+    color: #333232;
+}
+#contact{
+    background-color: #5a7184;
+    padding-bottom: 4rem;
+}
+
